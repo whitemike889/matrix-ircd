@@ -28,7 +28,7 @@ tokio-tls = "0.2.0"
 url = "1.2.1"
 
 [dependencies.openssl]
-version = "0.10.0"
+version = "0.10.55"
 
 [dependencies.tasked-futures]
 git = "https://github.com/erikjohnston/tasked-futures.git"
